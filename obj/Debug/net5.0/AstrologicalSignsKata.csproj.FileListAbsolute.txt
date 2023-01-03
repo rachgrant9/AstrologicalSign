@@ -1,0 +1,16 @@
+C:\Users\rachelg\source\repos\AstrologicalSignsKata\bin\Debug\net5.0\AstrologicalSignsKata.exe
+C:\Users\rachelg\source\repos\AstrologicalSignsKata\bin\Debug\net5.0\AstrologicalSignsKata.deps.json
+C:\Users\rachelg\source\repos\AstrologicalSignsKata\bin\Debug\net5.0\AstrologicalSignsKata.runtimeconfig.json
+C:\Users\rachelg\source\repos\AstrologicalSignsKata\bin\Debug\net5.0\AstrologicalSignsKata.runtimeconfig.dev.json
+C:\Users\rachelg\source\repos\AstrologicalSignsKata\bin\Debug\net5.0\AstrologicalSignsKata.dll
+C:\Users\rachelg\source\repos\AstrologicalSignsKata\bin\Debug\net5.0\ref\AstrologicalSignsKata.dll
+C:\Users\rachelg\source\repos\AstrologicalSignsKata\bin\Debug\net5.0\AstrologicalSignsKata.pdb
+C:\Users\rachelg\source\repos\AstrologicalSignsKata\obj\Debug\net5.0\AstrologicalSignsKata.csproj.AssemblyReference.cache
+C:\Users\rachelg\source\repos\AstrologicalSignsKata\obj\Debug\net5.0\AstrologicalSignsKata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rachelg\source\repos\AstrologicalSignsKata\obj\Debug\net5.0\AstrologicalSignsKata.AssemblyInfoInputs.cache
+C:\Users\rachelg\source\repos\AstrologicalSignsKata\obj\Debug\net5.0\AstrologicalSignsKata.AssemblyInfo.cs
+C:\Users\rachelg\source\repos\AstrologicalSignsKata\obj\Debug\net5.0\AstrologicalSignsKata.csproj.CoreCompileInputs.cache
+C:\Users\rachelg\source\repos\AstrologicalSignsKata\obj\Debug\net5.0\AstrologicalSignsKata.dll
+C:\Users\rachelg\source\repos\AstrologicalSignsKata\obj\Debug\net5.0\ref\AstrologicalSignsKata.dll
+C:\Users\rachelg\source\repos\AstrologicalSignsKata\obj\Debug\net5.0\AstrologicalSignsKata.pdb
+C:\Users\rachelg\source\repos\AstrologicalSignsKata\obj\Debug\net5.0\AstrologicalSignsKata.genruntimeconfig.cache
